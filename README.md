@@ -1,14 +1,14 @@
 - 👋 Hi, I’m Jeff Fillegar sometimes referred to Gio
 - 👀 I’m interested in APIs, data driven applications, and test automation
 - 🌱 I’m currently build demo applications that simulate real world applications using real integrations to SFDC and SAP to showcase how to design, build, and automate the testing
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on building fake test data services to drive automated test cases intelligently - Data is the Test!
 - 📫 How to reach me:
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/fillegar/">
+  <a href="https://www.linkedin.com/in/fillegar/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCDFTSrZH0kb7F3EskUWZ2MA">
+  <a href="https://www.youtube.com/@fillegar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/fillegar" target="_blank" rel="noopener noreferrer">
