@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeff Fillegar sometimes referred to Gio
+- 👋 Hi, I’m Jeff Fillegar sometimes referred to as Gio
 - 👀 I like building APIs, data driven applications using .NET MVC, php, and Javascript. For Test Automataion I use Tricentis Tosca and Testim.  
 - 🌱 I’m currently build demo applications that simulate real world applications using real integrations to SFDC and SAP to showcase how to design, build, and automate the testing
 - 💞️ I’m looking to collaborate on building fake test data services to drive automated test cases intelligently - Data is the Test!
