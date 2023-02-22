@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Jeff Fillegar sometimes referred to as <a href="https://www.instagram.com/gio.visor/" target="_blank" rel="noopener noreferrer">Gio</a>
+[Opens in new tab](https://www.instagram.com/gio.visor/)
 - 👀 I like building APIs, data driven applications using .NET MVC, php, Javascript, and React. For Test Automataion I use Tricentis Tosca and Testim.  
 - 🌱 I’m currently build demo applications that simulate real world applications using real integrations to SFDC and SAP to showcase how to design, build, and automate the testing
 - 💞️ I’m looking to collaborate on building fake test data services to drive automated test cases intelligently - Data is the Test!
