@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeff Fillegar, I like building APIs, data driven applications using .NET MVC, php, Javascript, and React.   
-- 👀 I do NOT write code to test code.  I write code to build products.  For Test Case Automataion I use Tricentis Tosca.  #nocode
-- 🌱 I’m currently build demo applications that simulate real world applications using real integrations to SFDC and SAP to showcase how to design, build, and automate the testing
+- 👀 I do NOT write code to test code.  I write code to build products.  For Test Case Automation, I use Tricentis Tosca.  #nocode
+- 🌱 I currently build demo apis and apps that simulate real world applications using real integrations to SFDC and SAP to showcase how to design, build, and automate the testing
 - 💞️ I’m looking to collaborate on building fake test data services to drive automated test cases intelligently - Data is the Test!
 - 📫 How to reach me:
 
