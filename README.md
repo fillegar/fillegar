@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeff Fillegar, I like building APIs and integrations to .NET WebApps (MVC and Blazor), php, Javascript, and React.   
+- 👋 Hi, I’m Jeff Fillegar, I like building APIs and integrations to Web Apps (.NET MVC, Razor Pages and Blazor), php, Javascript, React, Vue, and Angular.   
 - 🌱 I build digital products like apis and apps that simulate real world applications using real integrations to SFDC and SAP to showcase how to plan, design, build, and automate the testing of custom APIs, WebApps, integrations, and end to end business processes.
 - 👀 I do NOT write code to test code.  I write code to build products.  For Test Case Automation, I use Tricentis Tosca.  #nocode
 - 💞️ I’m looking to collaborate on building fake test data services to drive automated test cases intelligently - Data is the Test!
